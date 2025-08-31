@@ -10,6 +10,15 @@
 ---
 
 <details>
+<summary><strong>자연어 처리</strong></summary>
+
+- 한국어 금융 뉴스 긍정, 부정 분류 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xl6_rzcck9CSzMIaGuH-KYRwuhak2PL1?usp=sharing)
+
+</details>
+
+---
+
+<details>
 <summary><strong>이상치 탐지</strong></summary>
 
 - 신용카드 사기거래 탐지 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17RTwnrg2CMFReG-GIUnHwohWyM7ENqgI?usp=sharing)
