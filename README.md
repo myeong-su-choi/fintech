@@ -16,6 +16,10 @@
 
 - 한국어 금융 뉴스 긍정, 부정 분류 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xl6_rzcck9CSzMIaGuH-KYRwuhak2PL1?usp=sharing)
 
+- Seq2Seq의 Encoder로 뉴스기사 토픽 예측하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JfwtZDjSQSEoKYpteR7Z6km4bEScJnBG?usp=sharing)
+
+    > Seq2Seq [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=qwfLTwesx6k&t=220s)  
+
 </details>
 
 ---
