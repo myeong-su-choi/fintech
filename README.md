@@ -33,5 +33,15 @@
 
 </details>
 
+---
+
+<details>
+<summary><strong>시계열 예측</strong></summary>
+
+- LSTM을 활용해 주가 예측 모델 구현하기 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WWSSEMdffI4x2brjQhMXSpCgbx83e7MD?usp=sharing)
+
+    > LSTM [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=HXa7Ah87_gM&t=2018s)
+
+</details>
 
 
