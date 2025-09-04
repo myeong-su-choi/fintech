@@ -5,6 +5,8 @@
 
 - 국내 주식 데이터 수집 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://drive.google.com/file/d/1KwYYOuvQyIuIqcazHoc9lYAyvW0VA_oY/view?usp=sharing)
 
+- 퀀트 전략을 이용한 종목 선정 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://drive.google.com/file/d/1vSpKoqKvhG0JzM52ZbQAAiN1SyKqMVJW/view?usp=sharing)
+
 - 성과 지표 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QBSR_kuYYbls2ySgb49CQNCk4k_xSfbS?usp=sharing)
 
 - 주식 모멘텀 전략 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uG5cF6WFpypkZPDGhUYNmR5IZhAc8JdH?usp=sharing)
