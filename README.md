@@ -3,9 +3,11 @@
 <details>
 <summary><strong>금융공학(퀀트)</strong></summary>
 
-- 국내 주식 데이터 수집 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1DuQ51I5m4-cyAfLnV_XUyYMIR71ipjnd/view?usp=sharing)
+- 국내 주식 데이터 수집 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://drive.google.com/file/d/1KwYYOuvQyIuIqcazHoc9lYAyvW0VA_oY/view?usp=sharing)
 
 - 성과 지표 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QBSR_kuYYbls2ySgb49CQNCk4k_xSfbS?usp=sharing)
+
+- 주식 모멘텀 전략 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uG5cF6WFpypkZPDGhUYNmR5IZhAc8JdH?usp=sharing)
 
 </details>
 
@@ -43,5 +45,6 @@
     > LSTM [![YouTube](https://img.shields.io/badge/-YouTube-red?logo=YouTube&logoColor=white&style=flat)](https://www.youtube.com/watch?v=HXa7Ah87_gM&t=2018s)
 
 </details>
+
 
 
