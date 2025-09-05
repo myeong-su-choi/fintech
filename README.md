@@ -7,9 +7,13 @@
 
 - 퀀트 전략을 이용한 종목 선정 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://drive.google.com/file/d/1vSpKoqKvhG0JzM52ZbQAAiN1SyKqMVJW/view?usp=sharing)
 
+- 트레이딩을 위한 기술적 지표 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-WC1M_34fR-bE57zffNJnyPxZWjvnppR?usp=sharing)
+
 - 성과 지표 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QBSR_kuYYbls2ySgb49CQNCk4k_xSfbS?usp=sharing)
 
 - 주식 모멘텀 전략 구현 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uG5cF6WFpypkZPDGhUYNmR5IZhAc8JdH?usp=sharing)
+
+- 원자재 밸류 전략 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wp2MTKQE-k3Y2FvLjU_riZrOZJ83tqTN?usp=sharing)
 
 </details>
 
@@ -48,5 +52,11 @@
 
 </details>
 
+---
 
+<details>
+<summary><strong>머신러닝</strong></summary>
 
+- 부동산 가격 예측 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QbT2WXh_aTKu37HoYCFgHD2OoZDjjl-L?usp=sharing)
+
+</details>
