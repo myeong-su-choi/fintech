@@ -3,9 +3,9 @@
 <details>
 <summary><strong>금융공학(퀀트)</strong></summary>
 
-- 국내 주식 데이터 수집 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://drive.google.com/file/d/1KwYYOuvQyIuIqcazHoc9lYAyvW0VA_oY/view?usp=sharing)
+- 국내 주식 데이터 수집 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](./py/국내%20주식%20데이터%20수집.py)
 
-- 퀀트 전략을 이용한 종목 선정 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://drive.google.com/file/d/1vSpKoqKvhG0JzM52ZbQAAiN1SyKqMVJW/view?usp=sharing)
+- 퀀트 전략을 이용한 종목 선정 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](./py/퀀트%20전략을%20이용한%20종목%20선정.py)
 
 - 트레이딩을 위한 기술적 지표 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-WC1M_34fR-bE57zffNJnyPxZWjvnppR?usp=sharing)
 
